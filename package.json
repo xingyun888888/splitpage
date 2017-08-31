@@ -1,6 +1,6 @@
 {
   "name": "splitpage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a plugin for split page base front end",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xingyun888888/splitpage.git"
+    "url": "https://github.com/xingyun888888/splitpage.git"
   },
   "keywords": [
     "splitplugin"

@@ -1,4 +1,5 @@
 ### splitpage(分页插件)
+##### [参考博客](http://www.cnblogs.com/puyongsong/p/6297706.html)
 
 ---
 

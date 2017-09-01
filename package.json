@@ -9,14 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/xingyun888888/splitpage.git"
-  },
   "keywords": [
     "splitplugin"
   ],
-  "author": "xingyun_888888@sina.com",
+  "author": "smile",
   "license": "ISC",
   "devDependencies": {
     "jquery": "^3.2.1"
